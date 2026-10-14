@@ -1,0 +1,8 @@
+{
+  "name": "Remix AMIT",
+  "description": "Connect, view, edit, and analyze Google Sheets spreadsheets directly in your workspace with real-time updates and intuitive data tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
